@@ -1,7 +1,7 @@
 <h1 align="center"> Contact Link Tree </h1>
 
 <p align="center">
-"Contact Link Tree" é um projeto que auxilia os contatos entre pessoas de um grupo, ou adesão de novos contatos, através da concentração de links relevantes a esse tipo de grupo. Proposto à uma liderança ded um grupo com assuntos de cosméticos e beleza.
+"Contact Link Tree" é um projeto que auxilia contatos entre pessoas de um grupo, ou sua adesão, através da concentração de links relevantes a esse tipo de grupo. Proposto à uma liderança com assuntos de cosméticos e beleza.
 </p>
 
 <p align="center">
@@ -40,7 +40,7 @@ Podendo ter dados enviados para um e-mail cadastrado através da ferramenta 'for
 
 ## 🔖 Layout
 
-Layout da págiana principal desenvolvido com base nos design oferecido pela escola Rocketseat, já que temos o tema aproximado, com adição de elementos gráficos.<br>
+Layout da página principal desenvolvido com base nos design oferecido pela escola Rocketseat, já que temos o tema aproximado, com adição de elementos gráficos.<br>
 Pagina de social, contento formulário para identificação e esclarecimento de duvidas e conversas relacionadas ao grupo de interesse.<br>
 O formulário será entregue ao lider através da ferramenta formsubmit.co
 
