@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Contact Link Tree introduz uma lista de links que favorecem acesso a uma equipe de lidença.<br>
+Contact Link Tree introduz uma lista de links que favorecem acesso a uma equipe de liderança.<br>
 Bem como acesso a páginas relacionadas a beleza.<br>
 Podendo ter dados enviados para um e-mail cadastrado através da ferramenta 'formSubmit'  <br>
 
