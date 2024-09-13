@@ -26,7 +26,7 @@ function checkEmailSent() {
         // Remove a mensagem após 5 segundos
         setTimeout(() => {
             message.style.display = 'none';
-        }, 5000);
+        }, 3000);
 
         // Remove o parâmetro 'email' da URL sem recarregar a página
         const newUrl = window.location.href.split('?')[0];
