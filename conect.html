@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./assets/ico.png" type="image/x-icon">    
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=League+Spartan:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="conectStyle.css">
+    <title>Conectadas</title>
+</head>
+<body>
+    <section>
+        <header>
+            <img src="./assets/conect.png" alt="logo" id="logo">
+            <h1>Conectadas::</h1>
+        </header>
+        <h2>contate-nos, pergunte por promoções, faça já seu pedido.</h2>
+        <strong>atualize-se!!!</strong>
+        <p>
+            ótima maneira de interagir e ficar por dentro das novidades...<br/>
+            perfeito para se tornar ainda mais bela, ou tornar-se uma de nós.
+        </p>
+        <img src="./assets/anDisc.jpg" id="discImage" alt="imgDisc">
+
+        <form action="https://formsubmit.co/rqlaguiar@hotmail.com" method="POST">
+            <label for="name">nome: &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</label>
+            <input type="text" name="name" id="name" placeholder="seu nome" required><br/>
+            <label for="mail">e-mail: &nbsp; &nbsp; &nbsp;&nbsp;</label>
+            <input type="email" name="mail" id="mail" placeholder="seu melhor e-mail"><br/>
+            <label for="zap">whatsapp: &nbsp;</label>
+            <input type="tel" name="zap" id="zap" placeholder="seu nº de whatsapp" required><br/>
+            <input type="hidden" name="_next" value="http://127.0.0.1:5500/Projects/quel_socialTree/index.html">
+            <input type="hidden" name="_captcha" value="false">
+            <input type="hidden" name="_subject" value="Contato do App!">
+            <label for="message">converse comigo:</label><br/>
+            <textarea name="message" id="message" cols="135" rows="7" placeholder="deixe sua duvida, pedido, ou mande um olá!!!"></textarea>
+            <button type="submit" id="send"> 
+                Enviar
+            </button>
+        </form>
+        <div id="socialMedia">
+            <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5522999722229" target="_blank">
+                <ion-icon name="logo-whatsapp"></ion-icon>
+            </a>
+            <a href="https://instagram.com/raquel.aguiarrr" target="_blank">
+                <ion-icon name="logo-instagram"></ion-icon>
+            </a>
+            <a href="https://www.facebook.com/raquel.aguiar.79?mibextid=ZbWKwL" target="_blank">
+                 <ion-icon name="logo-facebook"></ion-icon>
+            </a>  
+        <div>
+            <div class="peeek-loading">
+                <ul id="loading-dots"></ul>
+            </div>
+    </section>
+    <aside>
+    </aside>
+
+    
+
+    <footer> M.Gomes &copy;</footer>
+
+    <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
+    <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
+    <script src="loading.js"></script>
+</body>
+</html>
