@@ -42,7 +42,8 @@ Podendo ter dados enviados para um e-mail cadastrado através da ferramenta 'for
 
 Layout da página principal desenvolvido com base nos design oferecido pela escola Rocketseat, já que temos o tema aproximado, com adição de elementos gráficos.<br>
 Pagina de social, contento formulário para identificação e esclarecimento de duvidas e conversas relacionadas ao grupo de interesse.<br>
-O formulário será entregue ao lider através da ferramenta formsubmit.co
+O formulário será entregue ao lider através da ferramenta formsubmit.co.<br>
+Responsivo a telas mobile.
 
 ## :memo: Considerações.
 
