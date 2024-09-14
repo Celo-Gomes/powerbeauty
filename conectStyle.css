@@ -137,7 +137,7 @@ ion-icon{background-color: transparent;}
 aside{
     grid-area: aside;
     height: 600px;
-    background-image: url(./assets/femmePower.png);
+    background-image: url(./assets/femmePower2.png);
     background-position: right;
     background-size: cover;
 }
