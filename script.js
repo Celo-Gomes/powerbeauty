@@ -23,7 +23,7 @@ function checkEmailSent() {
         const message = document.getElementById('success-message');
         message.style.display = 'block'; // Exibe a mensagem
 
-        // Remove a mensagem após 5 segundos
+        // Remove a mensagem após 3 segundos
         setTimeout(() => {
             message.style.display = 'none';
         }, 3000);
